@@ -1,6 +1,6 @@
 import React from 'react';
 import Rating from './Rating';
-
+ // eslint-disable-next-line
 function random(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
